@@ -33,4 +33,5 @@ public  class Main {
     palindrom m=new palindrom(s);
     m.isPalindrome (tab,s);
     }
+ 
 }
